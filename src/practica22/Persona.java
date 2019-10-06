@@ -1,4 +1,4 @@
-package javaapplication1;
+package practica22;
 
 /* @author tavohm */
 public class Persona {
